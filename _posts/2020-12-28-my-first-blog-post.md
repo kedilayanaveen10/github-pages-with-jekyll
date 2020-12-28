@@ -1,2 +1,4 @@
-title: MyTitle
-author: Naveen Kedilaya
+---
+title: "MyTitle"
+date: 2020-12-28
+---
